@@ -1,0 +1,4 @@
+Faktorial
+=========
+
+FaktorialJurnal2
