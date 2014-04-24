@@ -1,0 +1,24 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package jurnal.no.pkg2;
+
+/**
+ *
+ * @author Asisten
+ */
+public class hitung {
+   public static int hsl(int nilai)
+    {
+        int i,tot=1;
+        for (i=1;i<=nilai;i++)
+        {
+            tot=tot*i;
+        }
+        System.out.println("Faktorial dari "+nilai+"! : ");
+        return(tot);
+    } 
+}
